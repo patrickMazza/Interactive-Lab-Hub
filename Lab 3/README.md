@@ -108,7 +108,7 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
-The dialoge used here would be in an academic setting. The interaction I have designed is essentially a study buddy that reads a research paper while you are busy doing other studious activities. So the words that would be said durring this process would be ones of fustration or memorization. This could range from explitives to review definitions on a flashcard. In the interaction that was filmed, there is a student who is doing her math homework and is frustated because she also has to read a research paper. This promts her to ask the robot to read the research paper while she is doing her other homework so she can multitask effectivly.
+The dialoge used here would be in an academic setting. The interaction I have designed is essentially a study buddy that reads a research paper while you are busy doing other studious activities. So the words that would be said durring this process would be ones of fustration or memorization. This could range from explitives to review definitions on a flashcard. In the interaction that was filmed, there is a student who is doing her math homework and is frustated because she also has to read a research paper. This promts her to ask the robot to read the research paper while she is doing her other homework so she can multitask effectivly. The user also can instruct the device to stop talking and resume at will of the user.
 
 ### Acting out the dialogue
 
@@ -125,6 +125,8 @@ Find a partner, and *without sharing the script with your partner* try out the d
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
 
 \*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
+
+The dialogue was in allignment with what I think would have happened. The user could not read the research paper and do her math at the same time so she instructed the device to read it out for her. This allowed her to keep doing her math while she listened. She also instructed the device to stop and resume which allowed her to effectivly use the device for the purpose that it was created.
 
 # Lab 3 Part 2
 
