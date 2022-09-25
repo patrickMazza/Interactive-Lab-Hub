@@ -108,8 +108,14 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+The dialoge used here would be in an academic setting. The interaction I have designed is essentially a study buddy that reads a research paper while you are busy doing other studious activities. So the words that would be said durring this process would be ones of fustration or memorization. This could range from explitives to review definitions on a flashcard. In the interaction that was filmed, there is a student who is doing her math homework and is frustated because she also has to read a research paper. This promts her to ask the robot to read the research paper while she is doing her other homework so she can multitask effectivly.
 
 ### Acting out the dialogue
+
+
+https://user-images.githubusercontent.com/112049036/192150336-f0789f6d-40b2-4a4c-a19c-6948c8e2cc47.mp4
+
+
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
