@@ -101,9 +101,12 @@ From a remote browser on the same network, check to make sure your webserver is 
 
 ### Storyboard
 
+
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
+![Note Sep 25, 2022](https://user-images.githubusercontent.com/112049036/192357985-f7c70b49-1b13-42d3-8662-1f3bf58913e8.jpg)
+
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
