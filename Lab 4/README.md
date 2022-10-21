@@ -189,8 +189,11 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+The sketches I’ve drawn, for these types of sensor interactions, have raised questions more in how to implement these ideas rather than the capabilities of the devices. For some of these interactions, I’m wondering how much other technology such as virtual reality can improve the overall interaction and enjoyability of the interactive device that I’m creating. I am also wondering how much a graphical user interface for each of the interactive devices would help further the users understanding of the overall technology? I theoretically understand how the devices that I have created would behave, but implementing them into a physical design, I believe will dictate if the device has any validity in the real world. The last aspect, I am wondering is if these devices need the user before interacting with this technology. I believe actually prototyping the device will allow me to further understand if the device needs some sort of preliminary instructions.
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+I choose the Capacitive sensor memorization gamme
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -241,7 +244,11 @@ Think about how you want to present the information about what your sensor is se
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+The questions that this part of the lab raises are not dissimilar from the first round of designs that I created. I decided to do the capacitor sensor memorization game. One of the questions that came up when I was designing this is where I should put the LED screen and where I should put the start button. I put the start button in multiple positions, regardless of the shape of design I created for the memorization game. One of the biggest questions I have with these designs is if I should pre-determine the numbers and instructions on the prototype or digitally through the LED screen. I believe I need to prototype this design to see which version will be more comprehensive in explaining the game to the user. The final question I thought of was what impact the shape of the prototype will ultimately impact memorization and game performance of the user. What would be the difference between the star configuration and the circle configuration? Would one be conducive to better results in the memorization game?
+
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
+
+I pick the design with the LED display is the center with the boxes neatly arranged together.
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
@@ -294,4 +301,30 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
+
+The Memorization Game instructions:
+![9997F4A3-FDA0-4488-B2FD-1CECDA17AA60_4_5005_c](https://user-images.githubusercontent.com/112049036/197280687-485ba69d-546c-40a8-8e7a-84ac667b6c77.jpeg)
+
+The memorization sheet:
+![A4746722-1DD8-4B60-AFF2-3CE39F1C7528_1_201_a](https://user-images.githubusercontent.com/112049036/197280779-e8b819b3-7ffd-49d9-b23c-35f5aaff8882.jpeg)
+
+The List of numbers that must be selected:
+<img width="295" alt="5691962B-E793-4F76-B0C8-624725933E92" src="https://user-images.githubusercontent.com/112049036/197281077-f47beda1-c3ce-4d03-a013-7ca9865fde6d.png">
+
+Progression of the design:
+
+![1090C8CE-54B4-483B-925C-679BC59EEDD3_1_105_c](https://user-images.githubusercontent.com/112049036/197281132-c5abac2c-224f-4ad4-9466-335492e2fdd8.jpeg)
+![57AEBA82-8FA9-413F-9360-B131153A3F55_1_105_c](https://user-images.githubusercontent.com/112049036/197281145-4aeee054-6dd1-436b-b07f-a90b3b61efbe.jpeg)
+
+![392CD552-D80A-4101-958E-4B29C45B4717_1_105_c](https://user-images.githubusercontent.com/112049036/197281154-f7132ac5-9dc6-4564-be35-f8079f04d63c.jpeg)
+![FE9F4294-1980-4A76-AAA3-927000D6F141_1_105_c](https://user-images.githubusercontent.com/112049036/197281161-68b07cce-447d-4509-bc6f-fbc322d7d3c0.jpeg)
+![80187FCE-3EA1-4472-B2B6-3DF1F4FE9656_1_105_c](https://user-images.githubusercontent.com/112049036/197281200-4b249e73-8cbb-4d28-9aa7-18c15d4dd289.jpeg)
+![E843E3CA-D71A-49FE-BB23-7233ED61951A_1_105_c](https://user-images.githubusercontent.com/112049036/197281222-2f5e39b2-bbd2-4070-9142-3fa648399d64.jpeg)
+
+The capacitive memorization game test video!:
+![A6B7BBF4-7EF6-4903-86AA-072E1493880B_1_105_c](https://user-images.githubusercontent.com/112049036/197281414-a4977cc7-4014-4e77-be19-8dcc9cda834d.jpeg)
+
+https://youtu.be/klG76GVmMIc
+
+
 
