@@ -184,7 +184,7 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 ![A9F90134-88F9-418E-B528-851DB3386CFF_1_105_c](https://user-images.githubusercontent.com/112049036/197279867-51d3fc84-1885-458b-a240-51e6245fdc06.jpeg)
 
-![A9F90134-88F9-418E-B528-851DB3386CFF_1_105_c](https://user-images.githubusercontent.com/112049036/197279886-216c0a72-dd97-4461-9d33-6bc331c243aa.jpeg)
+![1CFE3C63-16B5-42A5-98BE-3481AB3BE41E_1_105_c](https://user-images.githubusercontent.com/112049036/197280119-27ccd9d4-63fe-4ecc-b203-c658975800b0.jpeg)
 
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
@@ -232,6 +232,11 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+![2CC4E38D-4226-4673-B328-2900681CC89D](https://user-images.githubusercontent.com/112049036/197280184-547ba440-ad65-45b5-a678-cf623461cecc.jpeg)
+
+![AA8ADE84-1F9F-4CF6-93BA-7C02FF2D2587_1_105_c](https://user-images.githubusercontent.com/112049036/197280195-03a6ebd1-3511-488d-b96f-a1e50713bf16.jpeg)
+
+![0CB451B4-7BF2-4672-89BB-0E7CCBFE64DF](https://user-images.githubusercontent.com/112049036/197280211-4c6c36d1-e062-4167-a101-13240a2427cb.jpeg)
 
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
@@ -243,6 +248,8 @@ Think about how you want to present the information about what your sensor is se
 Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
+
+![1090C8CE-54B4-483B-925C-679BC59EEDD3_1_105_c](https://user-images.githubusercontent.com/112049036/197280252-c20a645e-7459-43a9-a4be-6f6b15042f60.jpeg)
 
 
 LAB PART 2
