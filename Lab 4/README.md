@@ -299,8 +299,12 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+* 
 This is a lightweign design consisting of cardboard, two sensors, alligator clips, capacitive tape and a rasberry pi. The game essentially looks like a cardboard box that has an led screen in the middle and ten cpacitive tape boxes surrounding it. It feels sleek but durrable. The capacitove touch that this device detects is sensative and picks up the touch easily. This is displayed in the pictures and extremly user friendly. This a game that can be played by all!
+
 * "Works like": shows what the device can do
+
+
 This devices main hardware components are the gesture sensor, rasberry pi, capacitive tape and alligator clips. Each box that is made of capacitive tape is attached to an alligaor clip. Each alligator clip is then attached to the corresponding number of the box on the capacitive sensor. The capcitive sensor is then attached to the rasberry pi. Once the box is touched it will inform the participant what number it is in the list through the led. The game is plainly explained in detail on the memorization game instructions below.
 * "Acts like": shows how a person would interact with the device
 
