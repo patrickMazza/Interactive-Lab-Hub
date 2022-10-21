@@ -326,5 +326,6 @@ The capacitive memorization game test video!:
 
 https://youtu.be/klG76GVmMIc
 
+Big thank you to Martin, he helpped me test my design and debug a coding problem.
 
 
