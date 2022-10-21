@@ -176,6 +176,17 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
+![E66DF62A-7451-40FF-A689-A3FB4BDA98E3_1_105_c](https://user-images.githubusercontent.com/112049036/197279793-7427ba0f-b0b1-4d1c-ae6d-9f712083e8b8.jpeg)
+
+![F29D530E-EB0D-4B91-90DE-A5F85A38AE2F_1_105_c](https://user-images.githubusercontent.com/112049036/197279833-28d4eab0-5c9d-49ed-b789-e221d8e68f16.jpeg)
+
+![E0A43945-DBD0-457E-98E6-8546289B5772_1_105_c](https://user-images.githubusercontent.com/112049036/197279856-e25630c9-e040-4c94-bea8-50aab479fde6.jpeg)
+
+![A9F90134-88F9-418E-B528-851DB3386CFF_1_105_c](https://user-images.githubusercontent.com/112049036/197279867-51d3fc84-1885-458b-a240-51e6245fdc06.jpeg)
+
+![A9F90134-88F9-418E-B528-851DB3386CFF_1_105_c](https://user-images.githubusercontent.com/112049036/197279886-216c0a72-dd97-4461-9d33-6bc331c243aa.jpeg)
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
@@ -220,6 +231,8 @@ Here is an example:
 Think about how you want to present the information about what your sensor is sensing! Design a paper display for your project that communicates the state of the Pi and a sensor. Ideally you should design it so that you can slide the Pi out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
+
+
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
