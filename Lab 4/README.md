@@ -3,7 +3,7 @@
 **NAMES OF COLLABORATORS HERE**
 
 
-For lab this week, we focus on both on sensing, to bring in new modes of input into your devices, as well as prototyping the physical look and feel of the device. You will think about the physical form the device needs to perform the sensing as well as present the display or feedback about what was sensed. 
+For lab this week, we focus both on sensing, to bring in new modes of input into your devices, as well as prototyping the physical look and feel of the device. You will think about the physical form the device needs to perform the sensing as well as present the display or feedback about what was sensed. 
 
 ## Part 1 Lab Preparation
 
@@ -14,7 +14,7 @@ As always, pull updates from the class Interactive-Lab-Hub to both your Pi and y
 
 ```
 pi@ixe00:~$ cd Interactive-Lab-Hub
-pi@ixe00:~/Interactive-Lab-Hub $ git pull upstream Fall2021
+pi@ixe00:~/Interactive-Lab-Hub $ git pull upstream Fall2022
 pi@ixe00:~/Interactive-Lab-Hub $ git add .
 pi@ixe00:~/Interactive-Lab-Hub $ git commit -m "get lab4 content"
 pi@ixe00:~/Interactive-Lab-Hub $ git push
@@ -153,9 +153,7 @@ Connect it to your pi with Qwiic connector and try running the example script to
 
 You can go to the [SparkFun GitHub Page](https://github.com/sparkfun/Qwiic_Joystick_Py) to learn more about the sensor!
 
-#### (Optional) Distance Sensor
-
-Note: We did not distribute this sensor to you, so if you are interested in playing with it, please come pick it up from the TA!
+#### Distance Sensor
 
 Earlier we have asked you to play with the proximity sensor, which is able to sense object within a short distance. Here, we offer [Qwiic Multi Distance Sensor](https://www.sparkfun.com/products/17072), which has a field of view of about 25° and is able to detect objects up to 3 meters away! 
 
@@ -178,10 +176,24 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
+![E66DF62A-7451-40FF-A689-A3FB4BDA98E3_1_105_c](https://user-images.githubusercontent.com/112049036/197279793-7427ba0f-b0b1-4d1c-ae6d-9f712083e8b8.jpeg)
+
+![F29D530E-EB0D-4B91-90DE-A5F85A38AE2F_1_105_c](https://user-images.githubusercontent.com/112049036/197279833-28d4eab0-5c9d-49ed-b789-e221d8e68f16.jpeg)
+
+![E0A43945-DBD0-457E-98E6-8546289B5772_1_105_c](https://user-images.githubusercontent.com/112049036/197279856-e25630c9-e040-4c94-bea8-50aab479fde6.jpeg)
+
+![A9F90134-88F9-418E-B528-851DB3386CFF_1_105_c](https://user-images.githubusercontent.com/112049036/197279867-51d3fc84-1885-458b-a240-51e6245fdc06.jpeg)
+
+![1CFE3C63-16B5-42A5-98BE-3481AB3BE41E_1_105_c](https://user-images.githubusercontent.com/112049036/197280119-27ccd9d4-63fe-4ecc-b203-c658975800b0.jpeg)
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+
+The sketches I’ve drawn, for these types of sensor interactions, have raised questions more in how to implement these ideas rather than the capabilities of the devices. For some of these interactions, I’m wondering how much other technology such as virtual reality can improve the overall interaction and enjoyability of the interactive device that I’m creating. I am also wondering how much a graphical user interface for each of the interactive devices would help further the users understanding of the overall technology? I theoretically understand how the devices that I have created would behave, but implementing them into a physical design, I believe will dictate if the device has any validity in the real world. The last aspect, I am wondering is if these devices need the user before interacting with this technology. I believe actually prototyping the device will allow me to further understand if the device needs some sort of preliminary instructions.
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+I choose the Capacitive sensor memorization gamme
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -223,15 +235,28 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+![2CC4E38D-4226-4673-B328-2900681CC89D](https://user-images.githubusercontent.com/112049036/197280184-547ba440-ad65-45b5-a678-cf623461cecc.jpeg)
+
+![AA8ADE84-1F9F-4CF6-93BA-7C02FF2D2587_1_105_c](https://user-images.githubusercontent.com/112049036/197280195-03a6ebd1-3511-488d-b96f-a1e50713bf16.jpeg)
+
+![0CB451B4-7BF2-4672-89BB-0E7CCBFE64DF](https://user-images.githubusercontent.com/112049036/197280211-4c6c36d1-e062-4167-a101-13240a2427cb.jpeg)
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+The questions that this part of the lab raises are not dissimilar from the first round of designs that I created. I decided to do the capacitor sensor memorization game. One of the questions that came up when I was designing this is where I should put the LED screen and where I should put the start button. I put the start button in multiple positions, regardless of the shape of design I created for the memorization game. One of the biggest questions I have with these designs is if I should pre-determine the numbers and instructions on the prototype or digitally through the LED screen. I believe I need to prototype this design to see which version will be more comprehensive in explaining the game to the user. The final question I thought of was what impact the shape of the prototype will ultimately impact memorization and game performance of the user. What would be the difference between the star configuration and the circle configuration? Would one be conducive to better results in the memorization game?
+
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
+
+I pick the design with the LED display is the center with the boxes neatly arranged together.
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
 Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
+
+![1090C8CE-54B4-483B-925C-679BC59EEDD3_1_105_c](https://user-images.githubusercontent.com/112049036/197280252-c20a645e-7459-43a9-a4be-6f6b15042f60.jpeg)
 
 
 LAB PART 2
@@ -243,7 +268,7 @@ Following exploration and reflection from Part 1, complete the "looks like," "wo
 ### Part E (Optional)
 ### Servo Control with Joystick
 
-In the class kit, you should be able to find the [Qwiic Servo Controller](https://www.sparkfun.com/products/16773) and [Micro Servo Motor SG51](https://www.adafruit.com/product/2201). The Qwiic Servo Controller will need external power supply to drive, which we will be distributing the battery packs in the class. Connect the servo controller to the miniPiTFT through qwiic connector and connect the external battery to the 2-Pin JST port (ower port) on the servo controller. Connect your servo to channel 2 on the controller, make sure the brown is connected to GND and orange is connected to PWM.
+In the class kit, you should be able to find the [Qwiic Servo Controller](https://www.sparkfun.com/products/16773) and [Micro Servo Motor SG51](https://www.adafruit.com/product/2201). The Qwiic Servo Controller will need external power supply to drive, which are included in your kit. Connect the servo controller to the miniPiTFT through qwiic connector and connect the external battery to the 2-Pin JST port (ower port) on the servo controller. Connect your servo to channel 2 on the controller, make sure the brown is connected to GND and orange is connected to PWM.
 
 <img src="Servo_Setup.jpg" width="400"/>
 
@@ -274,6 +299,40 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+* 
+This is a lightweign design consisting of cardboard, two sensors, alligator clips, capacitive tape and a rasberry pi. The game essentially looks like a cardboard box that has an led screen in the middle and ten cpacitive tape boxes surrounding it. It feels sleek but durrable. The capacitove touch that this device detects is sensative and picks up the touch easily. This is displayed in the pictures and extremly user friendly. This a game that can be played by all!
+
 * "Works like": shows what the device can do
+
+
+This devices main hardware components are the gesture sensor, rasberry pi, capacitive tape and alligator clips. Each box that is made of capacitive tape is attached to an alligaor clip. Each alligator clip is then attached to the corresponding number of the box on the capacitive sensor. The capcitive sensor is then attached to the rasberry pi. Once the box is touched it will inform the participant what number it is in the list through the led. The game is plainly explained in detail on the memorization game instructions below.
 * "Acts like": shows how a person would interact with the device
+
+
+The Memorization Game instructions:
+![9997F4A3-FDA0-4488-B2FD-1CECDA17AA60_4_5005_c](https://user-images.githubusercontent.com/112049036/197280687-485ba69d-546c-40a8-8e7a-84ac667b6c77.jpeg)
+
+The memorization sheet:
+![A4746722-1DD8-4B60-AFF2-3CE39F1C7528_1_201_a](https://user-images.githubusercontent.com/112049036/197280779-e8b819b3-7ffd-49d9-b23c-35f5aaff8882.jpeg)
+
+The List of numbers that must be selected:
+<img width="295" alt="5691962B-E793-4F76-B0C8-624725933E92" src="https://user-images.githubusercontent.com/112049036/197281077-f47beda1-c3ce-4d03-a013-7ca9865fde6d.png">
+
+Progression of the design:
+
+![1090C8CE-54B4-483B-925C-679BC59EEDD3_1_105_c](https://user-images.githubusercontent.com/112049036/197281132-c5abac2c-224f-4ad4-9466-335492e2fdd8.jpeg)
+![57AEBA82-8FA9-413F-9360-B131153A3F55_1_105_c](https://user-images.githubusercontent.com/112049036/197281145-4aeee054-6dd1-436b-b07f-a90b3b61efbe.jpeg)
+
+![392CD552-D80A-4101-958E-4B29C45B4717_1_105_c](https://user-images.githubusercontent.com/112049036/197281154-f7132ac5-9dc6-4564-be35-f8079f04d63c.jpeg)
+![FE9F4294-1980-4A76-AAA3-927000D6F141_1_105_c](https://user-images.githubusercontent.com/112049036/197281161-68b07cce-447d-4509-bc6f-fbc322d7d3c0.jpeg)
+![80187FCE-3EA1-4472-B2B6-3DF1F4FE9656_1_105_c](https://user-images.githubusercontent.com/112049036/197281200-4b249e73-8cbb-4d28-9aa7-18c15d4dd289.jpeg)
+![E843E3CA-D71A-49FE-BB23-7233ED61951A_1_105_c](https://user-images.githubusercontent.com/112049036/197281222-2f5e39b2-bbd2-4070-9142-3fa648399d64.jpeg)
+
+The capacitive memorization game test video!:
+![A6B7BBF4-7EF6-4903-86AA-072E1493880B_1_105_c](https://user-images.githubusercontent.com/112049036/197281414-a4977cc7-4014-4e77-be19-8dcc9cda834d.jpeg)
+
+https://youtu.be/klG76GVmMIc
+
+Big thank you to Martin, he helpped me test my design and debug a coding problem.
+
 

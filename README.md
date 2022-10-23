@@ -1,4 +1,4 @@
-# [Patrick Mazza]'s-Lab-Hub
+# Patrick Mazza's-Lab-Hub
 for [Interactive Device Design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/)
 
 Please place links here to the README.md's for each of your labs here:
@@ -13,6 +13,7 @@ https://github.com/patrickMazza/Interactive-Lab-Hub/tree/Fall2022/Lab%202
 https://github.com/patrickMazza/Interactive-Lab-Hub/tree/Fall2022/Lab%203
 
 [Lab 4. Ph-UI!!!](Lab%204/)
+https://github.com/patrickMazza/Interactive-Lab-Hub/blob/Fall2022/Lab%204/README.md
 
 [Lab 5. Observant Systems](Lab%205/)
 
