@@ -9,7 +9,8 @@ https://github.com/patrickMazza/Interactive-Lab-Hub/tree/Fall2022/Lab%201
 [Lab 2. Interactive Prototyping: The Clock of Pi]
 https://github.com/patrickMazza/Interactive-Lab-Hub/tree/Fall2022/Lab%202
 
-[Lab 3. Chatterboxes](Lab%203/)
+[Lab 3. Chatterboxes]
+https://github.com/patrickMazza/Interactive-Lab-Hub/tree/Fall2022/Lab%203
 
 [Lab 4. Ph-UI!!!](Lab%204/)
 
