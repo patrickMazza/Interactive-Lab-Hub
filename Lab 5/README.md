@@ -288,6 +288,11 @@ For example:
 1. How could change your interactive system to address this?
 1. Are there optimizations you can try to do on your sense-making algorithm.
 
+The flight test to see the interaction of my design prototype went well in many areas. The object detector‘s main purpose was to detect the kettle on the stove, in order to listen for the whistling with the threshold marker. The whistling was also internalized by the system, and I was able to detect the whistling. The system did have some faults that led to some concerning conclusions. Sometimes the camera would not pick up the kettle at all, and it would just view the oven as an object. The frame rate is also slow, so observation was therefore inaccurate, and I don’t know how applicable this device would be in real time situations. Based on this behavior, I can see a scenario where other items around the oven that confuse the object detector or the system picking up another noise from a source closer to it.
+
+This also presents a problem to people because they are unaware of all of these uncertainties that are affecting my system. The key to implementing this device for the everyday user would be to have a system that is more detail oriented or embedded into the actual kettle and or stove. Also, I believe I could change the system to address. The problem of random noise would be to work out some sort of de-noising OP AMP filter where the system would have a high cut off frequency, so it would only read the high decibel number that the whistling would give off. I believe an optimization that I can make to the object detection algorithm would be to put weight on the variables that have to do with the color and shape of the cattle in order to detect it more accurately.
+
+
 ### Part D
 ### Characterize your own Observant system
 
