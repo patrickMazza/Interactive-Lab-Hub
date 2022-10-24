@@ -270,6 +270,7 @@ The interaction that I have thought of is combining object detection with a thre
 
 The experimentation I did to prepare for this interaction was to see if my object detection algorithm could identify the kettle. The algorithm was able to identify this as an object. The next step was to see if my threshold code would be able to detect the noise of the whistling. This was also successful.
 <img width="442" alt="21527CC8-AFFA-414A-AE3F-9A048F685C68" src="https://user-images.githubusercontent.com/112049036/197601558-23d72bd6-9846-41ba-b947-5aebe67f2943.png">
+![DEABB60C-C45E-4583-AA2D-00B70714839D_1_105_c](https://user-images.githubusercontent.com/112049036/197622854-dfa5bc56-43e6-4cb0-af7b-c14fd6fcf4d0.jpeg)
 
 ### Part C
 ### Test the interaction prototype
@@ -300,6 +301,7 @@ During the lecture, we mentioned questions to help characterize a material:
 * What are other properties/behaviors of X?
 * How does X feel?
 
+https://youtu.be/175A9cmH-q0
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
 ### Part 2.
