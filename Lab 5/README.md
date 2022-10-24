@@ -161,6 +161,8 @@ Using the microphone, try one of the following:
 
 **1. Set up threshold detection** Can you identify when a signal goes above certain fixed values?
 
+A thershold detection was set up sucsessfully and will be used in the aaplication of this lab experiment.
+
 **2. Set up a running averaging** Can you set up a running average over one of the variables that are being calculated.[moving average](https://en.wikipedia.org/wiki/Moving_average)
 
 **3. Set up peak detection** Can you identify when your signal reaches a peak and then goes down?
@@ -263,6 +265,10 @@ This might take a while to get fully installed. After installation, connect your
 * Fill out the ``Contextual Interaction Design Tool`` sheet.[Found here.](ThinkingThroughContextandInteraction.png)
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
+
+The interaction that I have thought of is combining object detection with a threshold detection of sound. This interaction would start with putting a kettle on the stove filled with water and heating it up. The camera would be faced towards the kettle as the water heated up. Once the water heats up to a certain temperature, the kettle will start to smoke, and a whistling noise will be emitted. From here, the system would recognize the water was ready and the user would then be notified and take the kettle off of the stove. From here there would be a timer set for two minutes and 15 seconds. The 15 seconds allows the chance for the user to pour the hot water into the French press, while the two minutes was for the coffee beans and hot water to coagulate. From here, you would just press down on the lever on the french press and then you could pour yourself a hot cup of coffee. 
+
+The experimentation I did to prepare for this interaction was to see if my object detection algorithm could identify the kettle. The algorithm was able to identify this as an object. The next step was to see if my threshold code would be able to detect the noise of the whistling. This was also successful.
 
 ### Part C
 ### Test the interaction prototype
