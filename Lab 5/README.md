@@ -102,6 +102,40 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
 
+Countour detection: 
+
+![546350F3-7D1B-4CD3-B468-233C3A38B51F_1_105_c](https://user-images.githubusercontent.com/112049036/197574096-9a05580e-2dd0-43ea-9365-a80375bf46a7.jpeg)
+
+One design that I  believe would be interesting to implement is to make a dog contour detector. Let's say I let my dogs outside of my house and they have a doggy door outside. Based on the distinctive appearances of my two dogs, my device will allow me to control what dog I will allow back in the house. If I am watching my dogs through a camera and I see one of them goes to the bathroom and one of them doesn't, when they are trying to enter the house again the contour of the dog will be detected and I can make the decision of opening the doggy door or not.
+![FC3E00DD-94F5-4C44-B9BA-CD8C17E492CB_1_105_c](https://user-images.githubusercontent.com/112049036/197574844-3ba590be-2233-433a-90f2-6bb660021d57.jpeg)
+
+Flow detection:
+
+![77D3C901-5CCE-481F-ACC6-1C48C105C6D8](https://user-images.githubusercontent.com/112049036/197575337-7aa2d622-ffd2-4f2c-bc26-c41bef3a9a05.jpeg)
+
+A cool design that I believe would be useful to implement is an airplane traffic indicator for flow detection. Here, the device would be able to tell which baton was moving in whichever direction the user chose to move it. This is in the effort to direct plane traffic in airports in order to establish a more efficient process. This would also be accompanied by the sound of the traffic officer, screaming the directions that applied to the airplanes.
+
+![99795592-ADFA-4A5A-A273-406CB70A7D2C_1_105_c](https://user-images.githubusercontent.com/112049036/197577312-97a5c0df-e8cb-4b84-a6f3-37abcee45022.jpeg)
+
+Face detection:
+
+<img width="628" alt="BA3DFEE3-E2B1-45A1-B290-782C10C8CCA3" src="https://user-images.githubusercontent.com/112049036/197577620-ed7bc235-61d9-4022-8864-70e73fea76c0.png">
+
+
+A useful design for face detection would be a cloud detector. I would put this in front of my house, and a person would have to get a facial scan before entering. This would be a useful tool, because I am scared of clowns and no clowns are allowed in my house. The algorithmic model would also be improved by detecting either a regular sounding person, or a clown sound which consists of much laughter.
+
+<img width="524" alt="92060DDD-EBC1-4AD3-9D5E-13E0FA5FF2EA" src="https://user-images.githubusercontent.com/112049036/197577400-81340bc4-1412-40bc-b853-ae642c75302c.png">
+
+Object detection:
+
+<img width="603" alt="209FE838-AC3A-48A4-B36A-72A2B960177F" src="https://user-images.githubusercontent.com/112049036/197577819-25390f33-0bfb-41ae-902c-cbdefdfa663e.png">
+
+<img width="523" alt="715BF509-CEA7-4390-985B-FD60F4AAE8CB" src="https://user-images.githubusercontent.com/112049036/197577829-641c183f-88aa-4d72-91bc-816ae2f16542.png">
+
+Another useful design that would be helpful for daily life would be a gym equipment detection list. This would scan an object to see if it was acceptable to bring to a gym. This is shown by the water bottle, which is an acceptable gym item. This is also shown by a computer, which is not an acceptable gym item.
+
+<img width="427" alt="9518490B-0EEE-4A27-98EA-2111CF46260C" src="https://user-images.githubusercontent.com/112049036/197577878-06764444-6fdb-4df5-b34d-ac9060284de4.png">
+
 #### Filtering, FFTs, and Time Series data. 
 Additional filtering and analysis can be done on the sensors that were provided in the kit. For example, running a Fast Fourier Transform over the IMU or Microphone data stream could create a simple activity classifier between walking, running, and standing.
 
