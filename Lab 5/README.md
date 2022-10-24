@@ -269,6 +269,7 @@ This might take a while to get fully installed. After installation, connect your
 The interaction that I have thought of is combining object detection with a threshold detection of sound. This interaction would start with putting a kettle on the stove filled with water and heating it up. The camera would be faced towards the kettle as the water heated up. Once the water heats up to a certain temperature, the kettle will start to smoke, and a whistling noise will be emitted. From here, the system would recognize the water was ready and the user would then be notified and take the kettle off of the stove. From here there would be a timer set for two minutes and 15 seconds. The 15 seconds allows the chance for the user to pour the hot water into the French press, while the two minutes was for the coffee beans and hot water to coagulate. From here, you would just press down on the lever on the french press and then you could pour yourself a hot cup of coffee. 
 
 The experimentation I did to prepare for this interaction was to see if my object detection algorithm could identify the kettle. The algorithm was able to identify this as an object. The next step was to see if my threshold code would be able to detect the noise of the whistling. This was also successful.
+<img width="442" alt="21527CC8-AFFA-414A-AE3F-9A048F685C68" src="https://user-images.githubusercontent.com/112049036/197601558-23d72bd6-9846-41ba-b947-5aebe67f2943.png">
 
 ### Part C
 ### Test the interaction prototype
