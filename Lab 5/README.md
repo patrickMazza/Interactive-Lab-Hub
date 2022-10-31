@@ -314,3 +314,8 @@ https://youtu.be/175A9cmH-q0
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
+
+This video is in accordance with the coffee/tea kettle storyboard above. First, water is put into the kettle and then placed on the stove. The system detects the kettle was put on the stove which then prompts the pi to initiate a threshold detection feature. Then, once the water starts boiling and smoke comes out of the kettle, it will make a whistling sound that will break the threshold detection. Once the threshold detection is exceeded, the system will say the water is hot enough and ready. Then, the user will pour the hot water into the French press, and a two minute timer will be set. Finally once the two minute timer is done, you can pour the coffee/tea into the cup and enjoy!
+
+Video:
+https://youtu.be/bEfNYMsRd60
