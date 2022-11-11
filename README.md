@@ -16,6 +16,7 @@ https://github.com/patrickMazza/Interactive-Lab-Hub/tree/Fall2022/Lab%203
 https://github.com/patrickMazza/Interactive-Lab-Hub/blob/Fall2022/Lab%204/README.md
 
 [Lab 5. Observant Systems](Lab%205/)
+https://github.com/patrickMazza/Interactive-Lab-Hub/tree/Fall2022/Lab%205
 
 [Lab 6. Little Interactions Everywhere](Lab%206/)
 
