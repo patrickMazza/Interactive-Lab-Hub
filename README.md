@@ -21,4 +21,5 @@ https://github.com/patrickMazza/Interactive-Lab-Hub/tree/Fall2022/Lab%205
 [Lab 6. Little Interactions Everywhere](Lab%206/)
 
 [Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/FinalProject.md)<!--[](Final%20Project/)-->
+https://github.com/patrickMazza/Developing-and-Designing-Interactive-Devices/blob/2022Fall/FinalProject.md
 
