@@ -183,15 +183,14 @@ The system worked well with the way the proximity sensor worked with initiating 
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+Controlling the device through the speach camera and proximity sensor was a seemless transition in how the participants interacted with the device. The only improvement I could think of is some type of sign inviting the participant to wave their hand over the sensor to initiate the start.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
+
 I believe thebest way to avoid the WoZ interaction and make it automated is to make it an IOT (internet of things) device and have more subject from which the user can choose.
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 I believe that we can make this system observe different gestures and different heights of proximity and distance to acsess different speeds of speach or subjects of reading. You can also impliment this into machine learning on the rasberry pi and you can make a model that predicts both different gestures and different heights of proximity and distance to acsess differnt speeds or subjects that can be stored in a database.
 
-\*\**your answer here*\*\*
 
