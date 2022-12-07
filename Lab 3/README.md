@@ -149,16 +149,37 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+The user waves their hand over the Study buddy product to 
 
 *Include videos or screencaptures of both the system and the controller.*
+![2AA3318E-96A1-4555-9650-FC260B62AE49_1_105_c](https://user-images.githubusercontent.com/112049036/206267701-e1d5d4ad-6a66-4634-b90d-9dfdfe8ae58a.jpeg)
+![9E389A45-EAC5-4EBD-B448-F7DE454961B6](https://user-images.githubusercontent.com/112049036/206267774-5edee67e-7fb5-4c1c-aa8d-b622a717761b.jpeg)
+![49648106-BCE1-4BF8-9109-6E5F4603A254_1_105_c](https://user-images.githubusercontent.com/112049036/206267787-8e66e611-877c-424b-847e-880cb3bee40e.jpeg)
+
+![4CA65F14-CB0E-4703-A530-410EDFEF744B_1_105_c](https://user-images.githubusercontent.com/112049036/206267881-a5f82165-93e1-447d-9100-fad6f7b4f754.jpeg)
+
+![B5424269-DECA-4B92-8251-EAD1B0CF68F4_1_105_c](https://user-images.githubusercontent.com/112049036/206267901-3381feb5-4935-4dbb-91b0-905dfa3f2987.jpeg)
+
+![9770DCA0-DDA4-473B-8999-4AD8130B8DD9_1_105_c](https://user-images.githubusercontent.com/112049036/206267916-4a8a1332-bd55-4994-9280-848e7662d490.jpeg)
+
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
+Jacob Test 1
+https://youtube.com/shorts/CHD-zf_i9_E
+
+Jacob Test 2
+https://youtube.com/shorts/c_D5p03IOGM
+
+Ken test 1
+https://youtu.be/bs-qA78WMAQ
+
+
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+The system worked well with the way the proximity sensor worked with initiating the speach of the device. The system failed in how many different interactions could take place due to the fact that it wasn't an IOT(internet of things) device and had only three school subjects to choose from.
 
 ### What worked well about the controller and what didn't?
 
@@ -167,9 +188,10 @@ Answer the following:
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
 \*\**your answer here*\*\*
-
+I believe thebest way to avoid the WoZ interaction and make it automated is to make it an IOT (internet of things) device and have more subject from which the user can choose.
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
+I believe that we can make this system observe different gestures and different heights of proximity and distance to acsess different speeds of speach or subjects of reading. You can also impliment this into machine learning on the rasberry pi and you can make a model that predicts both different gestures and different heights of proximity and distance to acsess differnt speeds or subjects that can be stored in a database.
 
 \*\**your answer here*\*\*
 
